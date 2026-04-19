@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-# Script: prepare_diffbind_rds_on_cluster.R
+# Script: prepare_diffbind_rds.R  (for cluster)
 # Purpose: Run DiffBind normalization + DE analysis for ATAC-seq 
 # Data:  ATAC-seq (SLX-12345)
 
